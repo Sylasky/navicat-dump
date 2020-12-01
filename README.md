@@ -7,3 +7,4 @@
 ```cmd
 D:\tools\>getNavicatPass.exe
 ```
+![avatar](https://raw.githubusercontent.com/xycxen/navicat-dump/master/68747470733a2f2f692e6c6f6c692e6e65742f323032302f31312f32362f6c3241565a4f3472745754365265332e706e67.png)
